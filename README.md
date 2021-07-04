@@ -5,19 +5,19 @@ A novel sub-part learning scheme is introduced in our work for the purpose of re
 perception and part-wise integration of visual information by the cortical regions of the brain. In this context, each numeral image is divided into four half-parts: top-half, bottomhalf, left-half and right-half; the other half of the image being kept masked. An efficient data representation is derived in an unsupervised manner, from each image part, using convolutional auto-encoders (CAE), for our learning scheme that involves both early and late fusion of features.
 
 ### Usage
-Step 1: Preparing Patches (Top, Bottom, Left, Right).<br />
+**Step 1: Preparing Patches (Top, Bottom, Left, Right).**<br />
 Data Preparation.ipynb
 
-Step 2: Getting 128D feature vector for all patches.<br />
+**Step 2: Getting 128D feature vector for all patches.**<br />
 Top.ipynb, Bottom.ipynb, Left.ipynb, Right.ipynb 
 
-Step 3: Getting early fusion probabilties by giving combined feature vector to classifier.<br /> 
+**Step 3: Getting early fusion probabilties by giving combined feature vector to classifier.**<br /> 
 Early fusion probabilities.ipynb
 
-Step 4: Getting probabilties score for each individual patch. <br />
+**Step 4: Getting probabilties score for each individual patch.** <br />
 Late fusion feature.ipynb 
 
-Step 5: Fusing probabilties score obtained through early fusion and late fusion. Giving the fused vector to classifer to get the prdicted class. <br />
+**Step 5: Fusing probabilties score obtained through early fusion and late fusion. Giving the fused vector to classifer to get the prdicted class.** <br />
 Late fusion feature.ipynb
 
 ### Citation
