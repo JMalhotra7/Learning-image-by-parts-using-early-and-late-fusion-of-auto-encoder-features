@@ -8,16 +8,16 @@ perception and part-wise integration of visual information by the cortical regio
 **Step 1: Preparing Patches (Top, Bottom, Left, Right).**<br />
 Data Preparation.ipynb
 
-**Step 2: Getting 128D feature vector for all patches.**<br />
+**Step 2: Learning feature vector for all patches.**<br />
 Top.ipynb, Bottom.ipynb, Left.ipynb, Right.ipynb 
 
-**Step 3: Getting early fusion probabilties by giving combined feature vector to classifier.**<br /> 
+**Step 3: Obtaining early fusion probabilties by giving combined feature vector to classifier.**<br /> 
 Early fusion probabilities.ipynb
 
-**Step 4: Getting probabilties score for each individual patch.** <br />
+**Step 4: Obtaining probabilties score for each individual patch.** <br />
 Late fusion feature.ipynb 
 
-**Step 5: Fusing probabilties score obtained through early fusion and late fusion. Giving the fused vector to classifer to get the prdicted class.** <br />
+**Step 5: Fusing probabilties score obtained through early fusion and late fusion. Giving the fused vector to classifer to get the predicted class.** <br />
 Late fusion feature.ipynb
 
 ### Citation
