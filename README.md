@@ -7,7 +7,7 @@ perception and part-wise integration of visual information by the cortical regio
 ### Citation
 If using this code, please cite our work using :
 
-	Susan, S., Malhotra, J. Learning image by-parts using early and late fusion of auto-encoder features. Multimed Tools Appl (2021).
+	Susan, Seba, and Jatin Malhotra. "Learning image by-parts using early and late fusion of auto-encoder features." Multimedia Tools and Applications 80, no. 19 (2021): 29601-29615.
 Link of the article: https://rdcu.be/cnHsd
 
 ### Usage
